@@ -2,6 +2,8 @@
 
 This project enhances object detection in images affected by snow, fog, or rain using simple preprocessing filters before applying YOLOv8 detection.
 
+create virtual environment to run this code.
+
 ## Folders
 
 - `test_images/` - contains sample input images
