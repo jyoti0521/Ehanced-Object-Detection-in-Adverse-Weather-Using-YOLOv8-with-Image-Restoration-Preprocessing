@@ -14,4 +14,4 @@ This project enhances object detection in images affected by snow, fog, or rain 
 python weather_detection.py
 
 
-
+create a virtual environment to run this code. 
